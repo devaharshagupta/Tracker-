@@ -1,0 +1,6 @@
+{
+  "name": "Sankalpa: Sadhana, College & GATE Tracker",
+  "description": "All-in-one daily consistency tracker for Krishna Consciousness sadhana (japa mala beads, reading, sadhana score), college works & attendance, and GATE preparation planning with syllabus tracker, study timer, and mock test analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
